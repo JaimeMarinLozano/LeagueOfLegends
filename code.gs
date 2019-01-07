@@ -1,5 +1,5 @@
 //Based on https://np.reddit.com/r/leagueoflegends/comments/7qs8ya/automated_ranked_spreadsheet/
-// Altered by Jaime Marin
+//Altered by Jaime Marin
 
 var apiKey = "";
 var region = "EUW1";
